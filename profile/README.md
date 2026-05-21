@@ -17,8 +17,8 @@ No verification layer exists for human physical behavior. Until now.
 
 | Proof | Evidence |
 |-------|----------|
-| **7 years of real data** | [📊 105 active members, continuous growth since 2019 →](https://github.com/ZWISERFIT/data) |
-| **AI Agents run 24/7** | [🤖 Latest agent commit: `LIVE` — verifiable commit timeline →](https://github.com/ZWISERFIT/agents) |
+| **7 years of real data** | [📊 105+ members · 100% capture · continuous since 2019 →](https://github.com/ZWISERFIT/data) |
+| **AI Agents run 24/7** | [🤖 Latest commit `4611ae1` · 2026-05-21 17:11 CST →](https://github.com/ZWISERFIT/agents) |
 | **Governance is mathematically proven** | [🛡️ Stella audit signature: `VERIFIED v2.0` — on-chain attestation →](https://github.com/ZWISERFIT/ZWISERFIT/blob/main/assets/ZWISERFIT-Web5-Stella%E5%AE%A1%E8%AE%A1%E7%AD%BE%E5%90%8D.json) |
 
 ---
