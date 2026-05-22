@@ -1,45 +1,21 @@
-# ZWISERFIT · Proof of Physical Behavior Protocol
+# ZWISERFIT
+**Web5 DePIN for user-owned, verifiable physical behavior data.**
 
-**The verification layer for human physical behavior.**
-1 node · 7 years of data · 9 AI Agents · 100% capture rate
+We build the missing verification layer for human activity — not device location.
 
----
+One gym · 7 years · 118 members · 9 AI Agents · 100% verifiable
 
-## ❓ The Problem
+## Repos
+- 🚀 **Main Project**：https://github.com/ZWISERFIT/ZWISERFIT
+- 📊 **7-Year Verified Data**：https://github.com/ZWISERFIT/data
+- 🤖 **AI Agent Army**：https://github.com/ZWISERFIT/agents
+- 📜 **PoPB Protocol**：https://github.com/ZWISERFIT/protocol
+- 📖 **Investor Data Room**：https://github.com/ZWISERFIT/investor
 
-Every day, millions of gym visits generate verified physical activity — real human behavior worth billions to insurers and pharma. Platforms capture this data. Sell it. The person who generated it gets nothing. Zero consent. Zero ownership.
+## Links
+- Twitter：https://twitter.com/ZWISERFIT
+- Discord：Coming soon
+- YouTube：Coming soon
+- Website：https://zwiserfit.cn
 
-No verification layer exists for human physical behavior. Until now.
-
----
-
-## ✅ Verified Proof — Not Claims
-
-| Proof | Evidence |
-|-------|----------|
-| **7 years of real data** | [📊 105+ members · 100% capture · continuous since 2019 →](https://github.com/ZWISERFIT/data) |
-| **AI Agents run 24/7** | [🤖 Latest commit `4611ae1` · 2026-05-21 17:11 CST →](https://github.com/ZWISERFIT/agents) |
-| **Governance is mathematically proven** | [🛡️ Stella audit signature: `VERIFIED v2.0` — on-chain attestation →](https://github.com/ZWISERFIT/ZWISERFIT/blob/main/assets/ZWISERFIT-Web5-Stella%E5%AE%A1%E8%AE%A1%E7%AD%BE%E5%90%8D.json) |
-
----
-
-## 🔗 Explore
-
-| Into | Link |
-|------|------|
-| 📖 Investor Quick Start (5 min → IC memo) | [`→ investor`](https://github.com/ZWISERFIT/investor) |
-| 📊 7 Years of Live Behavioral Data | [`→ data`](https://github.com/ZWISERFIT/data) |
-| 🤖 AI Agent Army — 24×7 Production | [`→ agents`](https://github.com/ZWISERFIT/agents) |
-| 🔗 PoPB Protocol Specification | [`→ protocol`](https://github.com/ZWISERFIT/protocol) |
-
----
-
-## 💰 Market Demand
-
-Industry research: health insurers pay **¥50–250/person/year** for verified behavioral data. China health insurance market: **¥900B+**. Global health data market: **$500B+**. Effectively utilized: **<5%**.
-
----
-
-**ZWISERFIT · Dongguan, Guangdong, China · [zwiserfit.com](https://zwiserfit.com)**
-
-*Category doesn't exist yet. We're defining it. This repo is maintained by AI Agents. The commit timeline is the audit trail.*
+We define a new asset class.
