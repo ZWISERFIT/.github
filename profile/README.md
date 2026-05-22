@@ -13,7 +13,7 @@ One gym · 7 years · 118 members · 9 AI Agents · 100% verifiable
 - 📖 **Investor Data Room**：https://github.com/ZWISERFIT/investor
 
 ## Links
-- Twitter：https://twitter.com/ZWISERFIT
+- Twitter：https://x.com/ZWISERFIT_Ceo
 - Discord：Coming soon
 - YouTube：Coming soon
 - Website：https://zwiserfit.cn
