@@ -72,3 +72,13 @@
 - 🌐 [zwiserfit.cn](https://zwiserfit.cn)
 - 📧 Discord · YouTube (coming soon)
 - 📖 [投资人资料室](https://github.com/ZWISERFIT/investor)
+
+## 📂 仓库导航
+
+| 仓库 | 用途 |
+|:---|:---|
+| [ZWISERFIT](https://github.com/ZWISERFIT/ZWISERFIT) | 主仓库·全项目入口 |
+| [PoPB](https://github.com/ZWISERFIT/PoPB) | PoPB协议·Proof of Physical Behavior |
+| [agents](https://github.com/ZWISERFIT/agents) | AI军团9 Agent·SOUL+协同日志 |
+| [investor](https://github.com/ZWISERFIT/investor) | 投资人数据室·BP+UE+创始人故事 |
+| [zwiserfit-ai-store-manager](https://github.com/ZWISERFIT/zwiserfit-ai-store-manager) | AI门店管理系统·技术文档 |
