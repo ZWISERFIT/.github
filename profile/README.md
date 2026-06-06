@@ -17,7 +17,7 @@
 | 累计营收 Cumulative Revenue | **$76K** |
 | AI Agent 军团 AI Agent Army | **9 个** |
 | 行为数据捕获率 Data Capture Rate | **100%** |
-| 天使轮截止 Angel Round Deadline | **2026.05.31** |
+| 天使轮阶段 Angel Round | **后Day6·资本端MVP模式** |
 
 ---
 
@@ -28,6 +28,8 @@
 | 🏗️ [ZWISERFIT](https://github.com/ZWISERFIT/ZWISERFIT) | 主项目 | PoPB 协议白皮书、路线图、技术架构 |
 | 📜 [PoPB](https://github.com/ZWISERFIT/PoPB) | **协议规范** | Proof of Physical Behavior 标准 — Apache 2.0 + MIT |
 | 🔧 [zwiserfit-ai-store-manager](https://github.com/ZWISERFIT/zwiserfit-ai-store-manager) | **业务系统** | Hermes/OpenClaw Agent 门店运营系统 |
+| 🤖 [agents](https://github.com/ZWISERFIT/agents) | **AI军团** | 9 Agent SOUL.md开放档案 + 协同事件日志 |
+| 📊 [investor](https://github.com/ZWISERFIT/investor) | **投资者** | BP终版·UE数据·创始人故事·投资导航 |
 | 🤖 [agents](https://github.com/ZWISERFIT/agents) | **AI 军团** | 9 Agent 配置、军团宪法、Agent-Bus、工作流 |
 | 📊 [data](https://github.com/ZWISERFIT/data) | **验证数据** | 7 年行为数据完整存档 — 链上可验证 |
 | 📖 [investor](https://github.com/ZWISERFIT/investor) | **投资人资料室** | 7 年运营数据、代币经济学、合规架构 |
