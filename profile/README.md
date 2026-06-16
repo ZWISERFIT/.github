@@ -1,10 +1,10 @@
-# ZWISERFIT
+# ZWISERFIT · AI + Web5 大健康基础数据设施
 
-**全球实体商业AI基础设施。** Global Physical Commerce AI Infrastructure.
+**AI + Web5 大健康基础数据设施 — 用户拥有自己的健康数据，协议确保数据属于用户、不属于平台。**
 
-> 我们不是 SaaS 公司，不是 AI 运维工具，不是 DePIN 项目。我们是第一个用 9 个 AI Agent 24×7 自主运营实体商业节点的协议。
+> 乐刻×平安证明了"运动行为数据值钱"。ZWF确保"数据属于用户，不属于平台"。
 >
-> *We are not a SaaS company, not an AI ops tool, not a DePIN project. We are the first protocol to autonomously operate a physical commerce node with 9 AI Agents running 24×7.*
+> *Leke × Ping An proved behavior data has value. ZWF ensures users own it.*
 
 ---
 
@@ -21,18 +21,24 @@
 
 ---
 
+## 三词拆解 / Three-Word Breakdown
+
+- **AI** → 9-Agent军团24/7运营 · 多模态传感器融合 · 行为验证
+- **Web5** → DID确权+MPC隐私+链上存证 · 用户拥有自己的健康数据
+- **大健康基础数据设施** → PoPB v1.0 MIT开源 · 协议层 · 不是应用层
+
+---
+
 ## 仓库导航 / Repository Map
 
 | 仓库 Repo | 层级 Layer | 内容 Content |
 |-----------|-----------|------|
-| 🏗️ [ZWISERFIT](https://github.com/ZWISERFIT/ZWISERFIT) | 主项目 | PoPB 协议白皮书、路线图、技术架构 |
+| 🏗️ [ZWISERFIT](https://github.com/ZWISERFIT/ZWISERFIT) | 主项目 | 大健康基础数据设施 — PoPB协议、路线图、架构 |
 | 📜 [PoPB](https://github.com/ZWISERFIT/PoPB) | **协议规范** | Proof of Physical Behavior 标准 — Apache 2.0 + MIT |
-| 🔧 [zwiserfit-ai-store-manager](https://github.com/ZWISERFIT/zwiserfit-ai-store-manager) | **业务系统** | Hermes/OpenClaw Agent 门店运营系统 |
+| 🔧 [zwiserfit-ai-store-manager](https://github.com/ZWISERFIT/zwiserfit-ai-store-manager) | **业务系统 / 生产验证场** | 9-Agent军团24/7运营 · PoPB数据管道 |
 | 🤖 [agents](https://github.com/ZWISERFIT/agents) | **AI军团** | 9 Agent SOUL.md开放档案 + 协同事件日志 |
 | 📊 [investor](https://github.com/ZWISERFIT/investor) | **投资者** | BP终版·UE数据·创始人故事·投资导航 |
-| 🤖 [agents](https://github.com/ZWISERFIT/agents) | **AI 军团** | 9 Agent 配置、军团宪法、Agent-Bus、工作流 |
 | 📊 [data](https://github.com/ZWISERFIT/data) | **验证数据** | 7 年行为数据完整存档 — 链上可验证 |
-| 📖 [investor](https://github.com/ZWISERFIT/investor) | **投资人资料室** | 7 年运营数据、代币经济学、合规架构 |
 | 🌐 [website](https://github.com/ZWISERFIT/website) | **官网** | Hugo + GitHub Pages |
 | 🛡️ [.github](https://github.com/ZWISERFIT/.github) | **组织治理** | 社区健康文件、贡献指南、许可证 |
 
@@ -44,15 +50,15 @@
 ┌─────────────────────────────────────────┐
 │  🌐 website          │  Frontend         │
 ├─────────────────────────────────────────┤
-│  🔧 store-manager    │  Business Logic   │
+│  🔧 store-manager    │  生产验证场       │
 ├─────────────────────────────────────────┤
-│  📜 PoPB             │  Protocol Spec    │
+│  📜 PoPB             │  验证协议层       │
 ├─────────────────────────────────────────┤
-│  🤖 agents           │  Agent Runtime    │
+│  🤖 agents           │  AI Agent 运行时   │
 ├─────────────────────────────────────────┤
-│  📊 data             │  Verified Data    │
+│  📊 data             │  链上可验证数据    │
 ├─────────────────────────────────────────┤
-│  📖 investor         │  Capital Layer    │
+│  📖 investor         │  资本层           │
 └─────────────────────────────────────────┘
 ```
 
@@ -77,8 +83,8 @@
 
 | 仓库 | 用途 |
 |:---|:---|
-| [ZWISERFIT](https://github.com/ZWISERFIT/ZWISERFIT) | 主仓库·全项目入口 |
-| [PoPB](https://github.com/ZWISERFIT/PoPB) | PoPB协议·Proof of Physical Behavior |
-| [agents](https://github.com/ZWISERFIT/agents) | AI军团9 Agent·SOUL+协同日志 |
-| [investor](https://github.com/ZWISERFIT/investor) | 投资人数据室·BP+UE+创始人故事 |
-| [zwiserfit-ai-store-manager](https://github.com/ZWISERFIT/zwiserfit-ai-store-manager) | AI门店管理系统·技术文档 |
+| [ZWISERFIT](https://github.com/ZWISERFIT/ZWISERFIT) | 大健康基础数据设施主仓库 · 全项目入口 |
+| [PoPB](https://github.com/ZWISERFIT/PoPB) | PoPB协议 · Proof of Physical Behavior |
+| [agents](https://github.com/ZWISERFIT/agents) | AI军团9 Agent · SOUL+协同日志 |
+| [investor](https://github.com/ZWISERFIT/investor) | 投资人数据室 · BP+UE+创始人故事 |
+| [zwiserfit-ai-store-manager](https://github.com/ZWISERFIT/zwiserfit-ai-store-manager) | AI门店管理系统 · PoPB数据管道验证场 |
