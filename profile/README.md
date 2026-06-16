@@ -1,6 +1,6 @@
-# ZWISERFIT · AI + Web5 大健康基础数据设施
+# ZWISERFIT · 大健康行为数据基础设施 · AI×Web5
 
-**AI + Web5 大健康基础数据设施 — 用户拥有自己的健康数据，协议确保数据属于用户、不属于平台。**
+**大健康行为数据基础设施 · AI×Web5 — 用户拥有自己的健康数据，协议确保数据属于用户、不属于平台。**
 
 > 乐刻×平安证明了"运动行为数据值钱"。ZWF确保"数据属于用户，不属于平台"。
 >
@@ -25,7 +25,7 @@
 
 - **AI** → 9-Agent军团24/7运营 · 多模态传感器融合 · 行为验证
 - **Web5** → DID确权+MPC隐私+链上存证 · 用户拥有自己的健康数据
-- **大健康基础数据设施** → PoPB v1.0 MIT开源 · 协议层 · 不是应用层
+- **大健康行为数据基础设施** → PoPB v1.0 MIT开源 · 协议层 · 不是应用层
 
 ---
 
@@ -33,7 +33,7 @@
 
 | 仓库 Repo | 层级 Layer | 内容 Content |
 |-----------|-----------|------|
-| 🏗️ [ZWISERFIT](https://github.com/ZWISERFIT/ZWISERFIT) | 主项目 | 大健康基础数据设施 — PoPB协议、路线图、架构 |
+| 🏗️ [ZWISERFIT](https://github.com/ZWISERFIT/ZWISERFIT) | 主项目 | 大健康行为数据基础设施 — PoPB协议、路线图、架构 |
 | 📜 [PoPB](https://github.com/ZWISERFIT/PoPB) | **协议规范** | Proof of Physical Behavior 标准 — Apache 2.0 + MIT |
 | 🔧 [zwiserfit-ai-store-manager](https://github.com/ZWISERFIT/zwiserfit-ai-store-manager) | **业务系统 / 生产验证场** | 9-Agent军团24/7运营 · PoPB数据管道 |
 | 🤖 [agents](https://github.com/ZWISERFIT/agents) | **AI军团** | 9 Agent SOUL.md开放档案 + 协同事件日志 |
@@ -83,7 +83,7 @@
 
 | 仓库 | 用途 |
 |:---|:---|
-| [ZWISERFIT](https://github.com/ZWISERFIT/ZWISERFIT) | 大健康基础数据设施主仓库 · 全项目入口 |
+| [ZWISERFIT](https://github.com/ZWISERFIT/ZWISERFIT) | 大健康行为数据基础设施主仓库 · 全项目入口 |
 | [PoPB](https://github.com/ZWISERFIT/PoPB) | PoPB协议 · Proof of Physical Behavior |
 | [agents](https://github.com/ZWISERFIT/agents) | AI军团9 Agent · SOUL+协同日志 |
 | [investor](https://github.com/ZWISERFIT/investor) | 投资人数据室 · BP+UE+创始人故事 |
